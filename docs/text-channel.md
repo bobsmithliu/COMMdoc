@@ -84,21 +84,35 @@ _Note: Sometimes the message will not be sent successfully due to network connec
 
 1. To add a reaction to a message, first you need to hover your mouse over the message.
 
+
 2. Click the icon with a smily face and a plus sign.
+
+    text-channel-find-reaction.png
 
 3. You can then choose from the reacion selection interface, like the emoji one, click it and your reaction will be added to the message!
 
+    ![Reaction Select](https://github.com/bobsmithliu/discordfordummies/blob/gh-pages/assets/images/comm-user-doc-pic/text-channel-add-reaction.png)
+
 4. Another way to add reaction is to right click on the message.
 
-5. You can pick from the four reaction choices you have used most, 
+5. Then you can pick from the four reaction choices you have used most, or click Add Reaction for a larger pool of most used reactions.
 
-6. Or click Add Reaction for a larger pool of most used reactions.
-
+    text-channel-reaction-alt.png
+    
 #### File upload
 
 ## Create a Text Channel
 
-Sometimes you might have a page that you don't want to be indexed for the search nor to show up in search results, e.g, a 404 page. To exclude a page from search, add the `search_exclude: true` parameter to the page's YAML front matter:
+Once you have leared how to use a text channel, you can then start thinking about how to create one for your other use! Afterall, nobody would like to chat in a room that has no set topic.
+
+### Setting up your channel
+
+#### General Setting
+
+#### Permission Setting
+
+#### Roles
+
 
 ### Setting up
 {: .no_toc }
