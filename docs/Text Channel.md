@@ -14,12 +14,12 @@ nav_order: 7
 {:toc}
 
 ---
-
+Text channel is one of the functions in Discord, which allow users to chat with each other in a public chatroom. Users are given serveral features, such as emoji, gif, and upload files to share their feeling and documents with each other. The following instruction will teach you how to:
 Just the Docs uses [lunr.js](http://lunrjs.com) to add a client-side search interface powered by a JSON index that Jekyll generates. All search results are shown in an auto-complete style interface (there is no search results page). By default, all generated HTML pages are indexed using the following data points:
 
-- Page title
-- Page content
-- Page URL
+- Use a text channel
+- Create a text channel
+- Customize a text channel
 
 ## Using a Text Channel
 
