@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Create and customize a Server
+title: Create and Customize a Server
 nav_order: 2
 ---
 
-# Create and customize a Server
+# Create and Customize a Server
 {: .no_toc }
 
 In this section 

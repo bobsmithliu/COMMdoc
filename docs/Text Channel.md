@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Create, customize, and use a Text Channel
-nav_order: 3
+nav_order: 7
 ---
 
 # Text Channel
