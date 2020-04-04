@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Customization
-nav_order: 6
+title: Create, customize, and use a Voice Channel
+nav_order: 4
 ---
 
-# Customization
+# Create, customize, and use a Voice Channel
 {: .no_toc }
 
 ## Table of contents
