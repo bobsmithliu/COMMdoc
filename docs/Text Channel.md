@@ -25,8 +25,8 @@ Just the Docs uses [lunr.js](http://lunrjs.com) to add a client-side search inte
 
 ### Sending your first message
 
-1. To send your first message `rake` command that comes with `just-the-docs`:
-
+1. To send your first message, you  `rake` command that comes with `just-the-docs`:
+![alt text](https://cdn.discordapp.com/attachments/677736537194233868/695826466549792789/KFN2IUBL_A4KU9JPHCC1E.png)
 
 ```bash
 $ bundle exec just-the-docs rake search:init
