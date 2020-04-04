@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Search
+title: Text Channel
 nav_order: 7
 ---
 
