@@ -4,7 +4,7 @@ title: Create, customize, and use a Text Channel
 nav_order: 7
 ---
 
-# Text Channal
+# Text Channel
 {: .no_toc }
 
 ## Table of contents
@@ -21,11 +21,12 @@ Just the Docs uses [lunr.js](http://lunrjs.com) to add a client-side search inte
 - Page content
 - Page URL
 
-## Create a server
+## Using a Text Channel
 
-### Generate search index
+### Sending your first message
 
-Before you can use search, you must initialize the feature by running this `rake` command that comes with `just-the-docs`:
+1. To send your first message `rake` command that comes with `just-the-docs`:
+
 
 ```bash
 $ bundle exec just-the-docs rake search:init
