@@ -26,9 +26,11 @@ Text channel is one of the functions in Discord, which allow users to chat with 
 
 1. To send your first message, first you need to go to the text box at the bottom of the screen, which looks like this:
 ![Starting a message](https://github.com/bobsmithliu/discordfordummies/blob/gh-pages/assets/images/comm-user-doc-pic/text-channel-start-message.PNG?raw=true)
+
 2. Click the grey area, and start typing your first message!:
 
 ![Enter a message](https://github.com/bobsmithliu/discordfordummies/blob/gh-pages/assets/images/comm-user-doc-pic/text-channel-text-enter.png?raw=true)
+
 3. Once you are done, hit Enter to send it.
 
 4. You will now see the message being sent to the channel!:
@@ -47,7 +49,7 @@ _Note: Sometimes the message will not be sent successfully due to network connec
 
 ![Open emoji select](https://github.com/bobsmithliu/discordfordummies/blob/gh-pages/assets/images/comm-user-doc-pic/text-channel-emoji.png?raw=true)
 
-3.You can choose emoji base on category, or you can search a specific emoji by clicking the search bar and type the keyword. e.g clap.:
+3. You can choose emoji base on category, or you can search a specific emoji by clicking the search bar and type the keyword. e.g clap.:
 
 ![Search emoji](https://github.com/bobsmithliu/discordfordummies/blob/gh-pages/assets/images/comm-user-doc-pic/text-channel-emoji-search.png?raw=true)
 
