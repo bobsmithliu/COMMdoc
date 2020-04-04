@@ -25,18 +25,15 @@ Text channel is one of the functions in Discord, which allow users to chat with 
 ### Sending your first message
 
 1. To send your first message, first you need to go to the text box at the bottom of the screen, which looks like this:
-![Starting a message](https://github.com/bobsmithliu/discordfordummies/blob/gh-pages/assets/images/comm-user-doc-pic/text-channel-start-message.PNG?raw=true){: style="float: left" }
-
+![Starting a message](https://github.com/bobsmithliu/discordfordummies/blob/gh-pages/assets/images/comm-user-doc-pic/text-channel-start-message.PNG?raw=true)
 2. Click the grey area, and start typing your first message!:
 
-![Enter a message](https://github.com/bobsmithliu/discordfordummies/blob/gh-pages/assets/images/comm-user-doc-pic/text-channel-text-enter.png?raw=true){: style="float: left" }
-
+![Enter a message](https://github.com/bobsmithliu/discordfordummies/blob/gh-pages/assets/images/comm-user-doc-pic/text-channel-text-enter.png?raw=true)
 3. Once you are done, hit Enter to send it.
 
 4. You will now see the message being sent to the channel!:
 
-![Message sent](https://github.com/bobsmithliu/discordfordummies/blob/gh-pages/assets/images/comm-user-doc-pic/text-channel-msg-sent.png?raw=true){: style="float: left" }
-
+![Message sent](https://github.com/bobsmithliu/discordfordummies/blob/gh-pages/assets/images/comm-user-doc-pic/text-channel-msg-sent.png?raw=true)
 
 _Note: Sometimes the message will not be sent successfully due to network connectivity, you can quickly try resend it by right clicking the message and click "Resent Message"._
 
@@ -48,17 +45,17 @@ _Note: Sometimes the message will not be sent successfully due to network connec
 
 2. Once you have clicked it, the emoji selection interface will show up:
 
-![Open emoji select](https://github.com/bobsmithliu/discordfordummies/blob/gh-pages/assets/images/comm-user-doc-pic/text-channel-emoji.png?raw=true){: style="float: left" }
+![Open emoji select](https://github.com/bobsmithliu/discordfordummies/blob/gh-pages/assets/images/comm-user-doc-pic/text-channel-emoji.png?raw=true)
 
 3.You can choose emoji base on category, or you can search a specific emoji by clicking the search bar and type the keyword. e.g clap.:
 
-![Search emoji](https://github.com/bobsmithliu/discordfordummies/blob/gh-pages/assets/images/comm-user-doc-pic/text-channel-emoji-search.png?raw=true){: style="float: left" }
+![Search emoji](https://github.com/bobsmithliu/discordfordummies/blob/gh-pages/assets/images/comm-user-doc-pic/text-channel-emoji-search.png?raw=true)
 
 4. Select the emoji you would like to use, then hit Enter to sent it to the text channel!
 
-![Emoji ready to sent](https://github.com/bobsmithliu/discordfordummies/blob/gh-pages/assets/images/comm-user-doc-pic/text-channel-emoji-ready-to-send.png?raw=true){: style="float: left" }
+![Emoji ready to sent](https://github.com/bobsmithliu/discordfordummies/blob/gh-pages/assets/images/comm-user-doc-pic/text-channel-emoji-ready-to-send.png?raw=true)
 
-![Emoji sent](https://github.com/bobsmithliu/discordfordummies/blob/gh-pages/assets/images/comm-user-doc-pic/text-channel-emoji-sent.png?raw=true){: style="float: left" }
+![Emoji sent](https://github.com/bobsmithliu/discordfordummies/blob/gh-pages/assets/images/comm-user-doc-pic/text-channel-emoji-sent.png?raw=true)
 
 
 
