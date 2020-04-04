@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Glossary
+title: Navigation Structure
 nav_order: 5
 ---
 
-# Glossary
+# Navigation Structure
 {: .no_toc }
 
 ## Table of contents
