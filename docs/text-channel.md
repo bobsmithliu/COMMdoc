@@ -4,9 +4,8 @@ title: Create, customize, and use a Text Channel
 nav_order: 3
 ---
 
-# Text Channel
----
-Text Channel is one of the main functions in Discords. It provide a public chatroom feature that allow users to chat with other users.
+# Text Channal
+{: .no_toc }
 
 ## Table of contents
 {: .no_toc .text-delta }
@@ -22,14 +21,11 @@ Just the Docs uses [lunr.js](http://lunrjs.com) to add a client-side search inte
 - Page content
 - Page URL
 
-## Using a Text Channel
+## Create a server
 
----
-As you see in the `Server` section, the server has its default text channel. The following instructions will be using the default text channel to demonstrate how you can ultilize features in Text Channel to fully customize the channel for your own use.
+### Generate search index
 
-### Sending your first message.
-
-  `rake` command that comes with `just-the-docs`:
+Before you can use search, you must initialize the feature by running this `rake` command that comes with `just-the-docs`:
 
 ```bash
 $ bundle exec just-the-docs rake search:init
@@ -72,7 +68,7 @@ To allow search for hyphenated words:
 search_tokenizer_separator: /[\s/]+/
 ```
 
-## Creating 
+## Hiding pages from search
 
 Sometimes you might have a page that you don't want to be indexed for the search nor to show up in search results, e.g, a 404 page. To exclude a page from search, add the `search_exclude: true` parameter to the page's YAML front matter:
 
