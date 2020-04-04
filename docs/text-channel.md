@@ -35,6 +35,8 @@ Text channel is one of the functions in Discord, which allow users to chat with 
 
 4. You will now see the message being sent to the channel!:
 
+![alt text](https://github.com/bobsmithliu/discordfordummies/blob/gh-pages/assets/images/COMM%20User%20Doc%20Pic/text%20channel%20msg%20sent.png)
+
 
 _Note: Sometimes the message will not be sent successfully due to network connectivity, you can quickly try resend it by right clicking the message and click "Resent Message"._
 
@@ -53,6 +55,13 @@ _Note: Sometimes the message will not be sent successfully due to network connec
 ![alt text](https://github.com/bobsmithliu/discordfordummies/blob/gh-pages/assets/images/COMM%20User%20Doc%20Pic/text%20channel%20emoji%20search.png)
 
 4. Select the emoji you would like to use, then hit Enter to sent it to the text channel!
+
+![alt text](https://github.com/bobsmithliu/discordfordummies/blob/gh-pages/assets/images/COMM%20User%20Doc%20Pic/text%20channel%20emoji%20ready%20to%20send.png)
+
+![alt text](https://github.com/bobsmithliu/discordfordummies/blob/gh-pages/assets/images/COMM%20User%20Doc%20Pic/text%20channel%20emoji%20sent.png)
+
+
+
 
 #### Gif
 
