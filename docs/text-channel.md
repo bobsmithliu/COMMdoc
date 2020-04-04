@@ -25,7 +25,7 @@ Text channel is one of the functions in Discord, which allow users to chat with 
 ### Sending your first message
 
 1. To send your first message, first you need to go to the text box at the bottom of the screen, which looks like this:
-![Starting-A-Message-In-Text-Channel](https://github.com/bobsmithliu/discordfordummies/blob/gh-pages/assets/images/comm-user-doc-pic/text-channel-start-message.PNG)
+![Starting-A-Message-In-Text-Channel](https://github.com/bobsmithliu/discordfordummies/blob/gh-pages/assets/images/comm-user-doc-pic/text-channel-start-message.PNG?raw=true)
 
 2. Click the grey area, and start typing your first message!:
 
