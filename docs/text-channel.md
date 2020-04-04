@@ -66,11 +66,19 @@ _Note: Sometimes the message will not be sent successfully due to network connec
 
 1. To send a gif, first click the gif icon in the text box.
 
+    ![Gif select](https://github.com/bobsmithliu/discordfordummies/blob/gh-pages/assets/images/comm-user-doc-pic/text-channel-gif-icon.png)
+
 2. Once you have clicked it, the emoji selection interface will show up:
+
+    ![Gif interface](https://github.com/bobsmithliu/discordfordummies/blob/gh-pages/assets/images/comm-user-doc-pic/text-channel-gif.png)
 
 3. You can select gif base on category, or you can search a gif by typing the keyword in the search bar. e.g Nibu:
 
+    ![Nibu Gif](https://github.com/bobsmithliu/discordfordummies/blob/gh-pages/assets/images/comm-user-doc-pic/text-channel-gif-search.png)
+
 4. You can scroll up and down to find the one you would like to send, once you have picked one, click it and it will be sent for you:
+
+    ![Gif sent](https://github.com/bobsmithliu/discordfordummies/blob/gh-pages/assets/images/comm-user-doc-pic/text-channel-gif-sent.png)
 
 #### Reaction
 
