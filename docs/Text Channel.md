@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Text Channel
+title: Create, customize, and use a Text Channel
 nav_order: 7
 ---
 
-# Search
+# Text Channal
 {: .no_toc }
 
 ## Table of contents
@@ -21,7 +21,7 @@ Just the Docs uses [lunr.js](http://lunrjs.com) to add a client-side search inte
 - Page content
 - Page URL
 
-## Set up search
+## Create a server
 
 ### Generate search index
 
