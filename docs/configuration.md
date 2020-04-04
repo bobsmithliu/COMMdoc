@@ -1,14 +1,14 @@
 ---
 layout: default
-title: Configuration
+title: Create and Customize a Server
 nav_order: 2
 ---
 
-# Configuration
+# Create and Customize a Server
 {: .no_toc }
 
+In this section 
 
-Just the Docs has some specific configuration parameters that can be defined in your Jekyll site's _config.yml file.
 {: .fs-6 .fw-300 }
 
 ## Table of contents
