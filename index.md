@@ -28,11 +28,11 @@ Discord is also a great option and popular among LAN game matches, e-sport tourn
 
 This manual is for users with basic computer skills. By following the instruction step by step, you will learn all the basics to start using Discord Windows version.
 
-By the end of this instruction guide, you will: 
+By the end of this instruction guide, you will learn how to: 
 
-* download and install Discord Windows version,
-* sign-up a Discord account, and
-* learn the basic functionalities in Discord.
+* create andcustomize a Discord server,
+* create, customize, and use a text channel, and
+* create, customize, and a new voice channel,
 
 ---
 
@@ -50,8 +50,8 @@ To follow the instructions in this document, you will need:
 * a keyboard and mouse/trackpad attached,
 * internet connection,
 * a web browser of your choice installed,
-* a valid email, and
-* general understandings of basic computer tasks.
+* a valid Discord account, and
+* basic skills to operate a Computer with Windows system.
 
 ---
 
