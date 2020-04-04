@@ -101,6 +101,19 @@ _Note: Sometimes the message will not be sent successfully due to network connec
     
 #### File upload
 
+1. To upload a file to the channel, first click the file upload button.
+
+    text-channel-file-upload-button
+
+2. Select the file you would like to upload and Clikc OK.
+
+3. You can then choose to add a comment that will be send with the file, and mark the file as spoiler to prevent it being seen immediately.
+
+    text-channel-file-upload-option
+
+4. After you finish with the setting, click Confirm to send, or click Cancel to cancel sending.
+
+
 ## Create a Text Channel
 
 Once you have leared how to use a text channel, you can then start thinking about how to create one for your other use! Afterall, nobody would like to chat in a room that has no set topic.
