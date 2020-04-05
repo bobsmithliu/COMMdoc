@@ -51,8 +51,8 @@ After reading this instruction, you should be able to:
 
 3. You can then change some properties of the server. e.g name, thumbnail, server region.
 
-  ![setting page]{https://github.com/bobsmithliu/discordfordummies/blob/gh-pages/assets/images/comm-user-doc-pic/serversetting.png?raw=true)
+  ![setting page](https://github.com/bobsmithliu/discordfordummies/blob/gh-pages/assets/images/comm-user-doc-pic/serversetting.png?raw=true)
 
-  ![basic change]{https://github.com/bobsmithliu/discordfordummies/blob/gh-pages/assets/images/comm-user-doc-pic/serverpreivew.png?raw=true)
+  ![basic change](https://github.com/bobsmithliu/discordfordummies/blob/gh-pages/assets/images/comm-user-doc-pic/serverpreivew.png?raw=true)
 
 4. Once you are done with the setting, don't forget to save if you would like to keep the changes!
