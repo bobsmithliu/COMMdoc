@@ -11,7 +11,10 @@ Text channel is one of the functions in Discord, which allow users to chat with 
 - Use a text channel
 - Create a text channel
 - Customize a text channel
+
 {: .no_toc }
+
+---
 
 ## Table of contents
 {: .no_toc .text-delta }

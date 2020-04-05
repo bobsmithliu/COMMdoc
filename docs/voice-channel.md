@@ -5,7 +5,16 @@ nav_order: 4
 ---
 
 # Voice Channel
+
+Voice channel is another function in Discord, which allow users to communicate with each other through their preferred audio inputs. Users will have the optional features, such as push-to-talk, in-game overlay, and streaming. The following instruction will teach you how to:
+
+- Use a voice channel,
+- Create a voice channel, and
+- Customize a voice channel.
+
 {: .no_toc }
+
+---
 
 ## Table of contents
 {: .no_toc .text-delta }
@@ -14,13 +23,6 @@ nav_order: 4
 {:toc}
 
 ---
-Voice channel is another function in Discord, which allow users to communicate with each other through their preferred audio inputs. Users will have the optional features, such as push-to-talk, in-game overlay, and streaming. The following instruction will teach you how to:
-
-- Use a voice channel,
-- Create a voice channel, and
-- Customize a voice channel.
-
-<br />
 
 ## Using a Voice Channel
 
