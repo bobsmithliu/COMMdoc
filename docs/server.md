@@ -26,15 +26,15 @@ Server is one of the functions in Discord. Server is needed for multi-user text 
 
 1. Click the Plus sign at the very bottom of the left, if you cannot see it due to too many servers on the left side, scroll to the bottom and you will be able to see it.
 
-  ![create](https://github.com/bobsmithliu/discordfordummies/blob/gh-pages/assets/images/comm-user-doc-pic/server-create-first-step.png?raw=true)
+      ![create](https://github.com/bobsmithliu/discordfordummies/blob/gh-pages/assets/images/comm-user-doc-pic/server-create-first-step.png?raw=true)
 
 2. Click Create Server in the poped dialogue box.
 
-  ![create confirm](https://github.com/bobsmithliu/discordfordummies/blob/gh-pages/assets/images/comm-user-doc-pic/server-create-second-step.png?raw=true)
+      ![create confirm](https://github.com/bobsmithliu/discordfordummies/blob/gh-pages/assets/images/comm-user-doc-pic/server-create-second-step.png?raw=true)
 
 3. After that, you can change your server icons by clicking the thumbnal, or change the name by click the name entry box in the pre-setting dialogue box.
 
-  ![basic setting](https://github.com/bobsmithliu/discordfordummies/blob/gh-pages/assets/images/comm-user-doc-pic/server-create-third-step.png?raw=true)
+      ![basic setting](https://github.com/bobsmithliu/discordfordummies/blob/gh-pages/assets/images/comm-user-doc-pic/server-create-third-step.png?raw=true)
 
 4. Click Create.
 
@@ -44,16 +44,16 @@ Server is one of the functions in Discord. Server is needed for multi-user text 
 
 1. Click the down arrow next to your server's name.
 
-  ![server set](https://github.com/bobsmithliu/discordfordummies/blob/gh-pages/assets/images/comm-user-doc-pic/server-custom-first-step.png?raw=true)
+      ![server set](https://github.com/bobsmithliu/discordfordummies/blob/gh-pages/assets/images/comm-user-doc-pic/server-custom-first-step.png?raw=true)
 
 2. Click Server Settings.
 
-  ![dropdown menu](https://github.com/bobsmithliu/discordfordummies/blob/gh-pages/assets/images/comm-user-doc-pic/server-custom-second-step.png?raw=true)
+      ![dropdown menu](https://github.com/bobsmithliu/discordfordummies/blob/gh-pages/assets/images/comm-user-doc-pic/server-custom-second-step.png?raw=true)
 
 3. You can then change some properties of the server. e.g name, thumbnail, server region.
 
-  ![setting page](https://github.com/bobsmithliu/discordfordummies/blob/gh-pages/assets/images/comm-user-doc-pic/serversetting.png?raw=true)
+      ![setting page](https://github.com/bobsmithliu/discordfordummies/blob/gh-pages/assets/images/comm-user-doc-pic/serversetting.png?raw=true)
 
-  ![basic change](https://github.com/bobsmithliu/discordfordummies/blob/gh-pages/assets/images/comm-user-doc-pic/serverpreivew.png?raw=true)
+      ![basic change](https://github.com/bobsmithliu/discordfordummies/blob/gh-pages/assets/images/comm-user-doc-pic/serverpreivew.png?raw=true)
 
 4. Once you are done with the setting, don't forget to save if you would like to keep the changes!
