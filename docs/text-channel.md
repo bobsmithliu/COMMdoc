@@ -94,23 +94,23 @@ _Note: Sometimes the message will not be sent successfully due to network connec
     ![Reaction Select](https://github.com/bobsmithliu/discordfordummies/blob/gh-pages/assets/images/comm-user-doc-pic/text-channel-add-reaction.png?raw=true)
 
 4. Another way to add reaction is to right click on the message.
+    ![Reaction alt](https://github.com/bobsmithliu/discordfordummies/blob/gh-pages/assets/images/comm-user-doc-pic/text-channel-reaction-alt.png?raw=true)
 
 5. Then you can pick from the four reaction choices you have used most, or click Add Reaction for a larger pool of most used reactions.
-
-    text-channel-reaction-alt.png
+    
     
 #### File upload
 
 1. To upload a file to the channel, first click the file upload button.
 
-    text-channel-file-upload-button
-
+    ![upload button](https://github.com/bobsmithliu/discordfordummies/blob/gh-pages/assets/images/comm-user-doc-pic/text-channel-file-upload-button.png?raw=true)
+    
 2. Select the file you would like to upload and Click OK.
 
 3. You can then choose to add a comment that will be send with the file, and mark the file as spoiler to prevent it being seen immediately.
 
-    text-channel-file-upload-option
-
+    ![upload confirm](https://github.com/bobsmithliu/discordfordummies/blob/gh-pages/assets/images/comm-user-doc-pic/text-channel-file-upload-option.png?raw=true)
+    
 4. After you finish with the setting, click Confirm to send, or click Cancel to cancel sending.
 
 
