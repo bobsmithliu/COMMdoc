@@ -53,11 +53,11 @@ Also, we implemented different icons to inform the readers if they should pay mo
 
 This is an indication that the following information is useful but not mandatory to read.
 
-![Note](https://github.com/bobsmithliu/discordfordummies/blob/gh-pages/assets/images/comm-user-doc-pic/note.png?raw=true){: style="float: left" }
+![Note](https://github.com/bobsmithliu/discordfordummies/blob/gh-pages/assets/images/comm-user-doc-pic/note.png?raw=true)
 
 This is an indication that the following information should be paid extra attention to.
 
-![caution](https://github.com/bobsmithliu/discordfordummies/blob/gh-pages/assets/images/comm-user-doc-pic/caution.png?raw=true){: style="float: left" }
+![caution](https://github.com/bobsmithliu/discordfordummies/blob/gh-pages/assets/images/comm-user-doc-pic/caution.png?raw=true)
 
 ### Conclusion
 
@@ -71,4 +71,6 @@ We believe this experience is very benefitial to us wwhen we start working at a 
 
 Thank you for reading our Discord for Dummies guide, and we hope by reading this guide, we were able to help you learn the basics of using Discord.
 
-This document was built on using: <a href="https://github.com/pmarsceill/just-the-docs"><h2>Just the Docs</h2></a>
+### This document was built on using: 
+
+<a href="https://github.com/pmarsceill/just-the-docs"><h2>Just the Docs</h2></a>
