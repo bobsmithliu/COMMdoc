@@ -61,6 +61,24 @@ Discord has a few advantages compares to other existing voice, text, or video ch
 
 ---
 
+## Typographical Conventions
+
+These instructions use the following typographic conventions.
+
+| Convention                           | Typeface      | Examples                                         |
+| :----                                | :----         | :----                                            |
+| Discord built-in buttons |   ```Light``` |     ```User Setting```, ```Voice Setting```, ```Voice Connected```     |
+
+<br>
+
+[Note](https://github.com/bobsmithliu/discordfordummies/blob/gh-pages/assets/images/comm-user-doc-pic/note.PNG?raw=true)
+This is an indication that the following information is useful but not mandatory to read.
+
+[Note](https://github.com/bobsmithliu/discordfordummies/blob/gh-pages/assets/images/comm-user-doc-pic/caution.PNG?raw=true)
+This is an indication that the following information should be paid extra attention to.
+
+---
+
 ## Conclusion
 
 Many users switch to Discord from other VoIP software because of it’s free or curiosity. People who are into gaming or streaming also relies heavily on using Discord as their main communication platform. Even regular non-gaming users can use the have a great texting and voice chatting experience using basic Discord functionalities.
