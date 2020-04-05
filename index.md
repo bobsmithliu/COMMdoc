@@ -32,7 +32,7 @@ By the end of this instruction guide, you will learn how to:
 
 * create andcustomize a Discord server,
 * create, customize, and use a text channel, and
-* create, customize, and a new voice channel,
+* create, customize, and a new voice channel.
 
 ---
 

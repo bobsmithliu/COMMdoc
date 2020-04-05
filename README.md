@@ -1,68 +1,74 @@
-<p align="right">
-    <a href="https://badge.fury.io/rb/just-the-docs"><img src="https://badge.fury.io/rb/just-the-docs.svg" alt="Gem version"></a> <a href="https://github.com/pmarsceill/just-the-docs/actions"><img src="https://github.com/pmarsceill/just-the-docs/workflows/CI/badge.svg" alt="Build status"></a>
-</p>
-<br><br>
-<p align="center">
-    <h1 align="center">Just the Docs</h1>
-    <p align="center">A modern, highly customizable, and responsive Jekyll theme for documentation with built-in search.<br>Easily hosted on GitHub Pages with few dependencies.</p>
-    <p align="center"><strong><a href="https://pmarsceill.github.io/just-the-docs/">See it in action!</a></strong></p>
-    <br><br><br>
-</p>
+### Overview of Discord for Dummies Guide
 
-![jtd](https://user-images.githubusercontent.com/896475/47384541-89053c80-d6d5-11e8-98dc-dba16e192de9.gif)
+Discord for dummies is a guide intended for users who have no previous experience with Discord. The guide will provide basic information on how to use some of the main features of Discord.
 
-## Installation
+The basics we are trying to guide you through are how to: 
+- create andcustomize a Discord server,
+- create, customize, and use a text channel, and
+- create, customize, and a new voice channel.
 
-Add this line to your Jekyll site's Gemfile:
+### Why Did We Choose Discord
 
-```ruby
-gem "just-the-docs"
-```
+Due to the unforseen outbreak of the COVID-19 virus, all our school were forced to online lecture. As a result, all of our communication are either done by Slack or Discord. 
 
-And add this line to your Jekyll site's `_config.yml`:
+Because Slack are more for school and official communications, most of our peers decide to use Discord for casual communications. 
 
-```yaml
-theme: just-the-docs
-```
+We decided to make a guide on how to use Discord, so people who wants to start using Discord to communicate and learn it quickly and efficiently.
 
-And then execute:
+### How We Collabrated During the Project
 
-    $ bundle
+We communicated with each other mainly through Discord by discussing the main features and functions we want to cover in this guide.
 
-Or install it yourself as:
+We would also use Slack to ask and communicate with our instruct during sechduled meeting and question sessions.
 
-    $ gem install just-the-docs
 
-## Usage
+### How We Created Our Guide
+To finish this guide, we used multiple application, github guides, and exisiting markdown templates.
 
-[View the documentation](https://pmarsceill.github.io/just-the-docs/) for usage information.
+#### Markdown Templates
 
-## Contributing
+Because both of us are not familiar with writing instructions using markdowns, we had to read github guides for the correct syntax to use inside our markdown files.
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/pmarsceill/just-the-docs. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
+Also, we used an exisiting markdown template called "Just the Docs" to set up the initial configaration of our guide markdown files.
 
-### Submitting code changes:
+We were able to learn how to use different headings, fonts, stylings, and impelementing images in our markdown files.
 
-- Open a [Pull Request](https://github.com/pmarsceill/just-the-docs/pulls)
-- Ensure all CI tests pass
-- Await code review
-- Bump the version number in `just-the-docs.gemspec` and `package.json` according to [semantic versioning](https://semver.org/).
+#### GitHub Desktop
 
-### Design and development principles of this theme:
+We used GitHub Desktop as our version control through out the project. Having previous experience with the software during our prvious term project helped us tremendously during the creation of this guide.
 
-1. As few dependencies as possible
-2. No build script needed
-3. First class mobile experience
-4. Make the content shine
+We were able to revert multiple unwanted changes during the project, which helped us saving significant amount of time.
 
-## Development
+#### Visual Code Studio
 
-To set up your environment to develop this theme, run `bundle install`.
+We used Visual Code Studio as our main editting tool for the markdown files. We learned how to use the software during our web development course in the previous term, so using VCS makes us feel more confidant at making error free edittings.
 
-Your theme is set up just like a normal Jekyll site! To test your theme, run `bundle exec jekyll serve` and open your browser at `http://localhost:4000`. This starts a Jekyll server using your theme. Add pages, documents, data, etc. like normal to test your theme's contents. As you make modifications to your theme and to your content, your site will regenerate and you should see the changes in the browser after a refresh, just like normal.
+#### Github Guides
 
-When the theme is released, only the files in `_layouts`, `_includes`, and `_sass` tracked with Git will be released.
+By following the github guides, we were able to create more readable guide by using proper styling and designs.
 
-## License
+To make the instructions easier to understand, we used a typography standard to help the readers know if an important keyword is being mentioned. Readers will spot if we are referring to a `Discord built-in bottons` or a **[special icon image]**.
 
-The theme is available as open source under the terms of the [MIT License](http://opensource.org/licenses/MIT).
+Also, we implemented different icons to inform the readers if they should pay more attention in the next section of the guide.
+
+This is an indication that the following information is useful but not mandatory to read.
+
+![Note](https://github.com/bobsmithliu/discordfordummies/blob/gh-pages/assets/images/comm-user-doc-pic/note.png?raw=true){: style="float: left" }
+
+This is an indication that the following information should be paid extra attention to.
+
+![caution](https://github.com/bobsmithliu/discordfordummies/blob/gh-pages/assets/images/comm-user-doc-pic/caution.png?raw=true){: style="float: left" }
+
+### Conclusion
+
+We were able to finish this guide through using different tools, softwares, online documentations, and communication with our peers and the instructor.
+
+We learned that group project is harder than it seem because different people have different ideas and different view on project designs. 
+
+From working together on this project, my teammate and I learned how to communicate when we have an issue, aand how to use Github Desktop to verion control if one of us accidentally caused a glitch in the markdown file.
+
+We believe this experience is very benefitial to us wwhen we start working at a real company. We learned the importance of communication, team work, and how to write an instruction guide using markdown at the same time. We are both looking forward to work together on other projects in the future.
+
+Thank you for reading our Discord for Dummies guide, and we hope by reading this guide, we were able to help you learn the basics of using Discord.
+
+This document was built on using: <a href="https://github.com/pmarsceill/just-the-docs"><h2>Just the Docs</h2></a>
