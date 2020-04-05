@@ -135,14 +135,3 @@ Once you have leared how to use a text channel, you can then start thinking abou
 
 3. Don't forget to save your changes before you leave if you would like to change the setting!
 
-{: .no_toc }
-
-```yaml
----
-layout: default
-title: Page not found
-nav_exclude: true
-search_exclude: true
----
-```
-## Customize a Text Channel
