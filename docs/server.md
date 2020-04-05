@@ -44,16 +44,16 @@ Server is one of the functions in Discord. Server is needed for multi-user text 
 
 1. Click the down arrow next to your server's name.
 
-  ![server set](https://github.com/bobsmithliu/discordfordummies/blob/gh-pages/assets/images/comm-user-doc-pic/server-custom-first-step.png?raw=true)
+      ![server set](https://github.com/bobsmithliu/discordfordummies/blob/gh-pages/assets/images/comm-user-doc-pic/server-custom-first-step.png?raw=true)
 
 2. Click Server Settings.
 
-  ![dropdown menu](https://github.com/bobsmithliu/discordfordummies/blob/gh-pages/assets/images/comm-user-doc-pic/server-custom-second-step.png?raw=true)
+      ![dropdown menu](https://github.com/bobsmithliu/discordfordummies/blob/gh-pages/assets/images/comm-user-doc-pic/server-custom-second-step.png?raw=true)
 
 3. You can then change some properties of the server. e.g name, thumbnail, server region.
 
-  ![setting page](https://github.com/bobsmithliu/discordfordummies/blob/gh-pages/assets/images/comm-user-doc-pic/serversetting.png?raw=true)
+      ![setting page](https://github.com/bobsmithliu/discordfordummies/blob/gh-pages/assets/images/comm-user-doc-pic/serversetting.png?raw=true)
 
-  ![basic change](https://github.com/bobsmithliu/discordfordummies/blob/gh-pages/assets/images/comm-user-doc-pic/serverpreivew.png?raw=true)
+      ![basic change](https://github.com/bobsmithliu/discordfordummies/blob/gh-pages/assets/images/comm-user-doc-pic/serverpreivew.png?raw=true)
 
 4. Once you are done with the setting, don't forget to save if you would like to keep the changes!
