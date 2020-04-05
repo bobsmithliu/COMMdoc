@@ -136,7 +136,7 @@ Once you have leared how to use a text channel, you can then start thinking abou
 
 1. Hover your mouse to your newly created channel's title, then click on the Gear button.
 
-    ![how to](https://github.com/bobsmithliu/discordfordummies/blob/gh-pages/assets/images/comm-user-doc-pic/text-channel-create-how-to.png)
+    ![how to](https://github.com/bobsmithliu/discordfordummies/blob/gh-pages/assets/images/comm-user-doc-pic/text-channel-create-how-to.png?raw=true)
 
 2. You can then change your Channel Name, Channel Topic, or Enabling Slow Mode.
 
