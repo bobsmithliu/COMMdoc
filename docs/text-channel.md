@@ -146,3 +146,4 @@ Once you have leared how to use a text channel, you can then start thinking abou
 
 3. Don't forget to save your changes before you leave if you would like to change the setting!
 
+    ![Connected status](https://github.com/bobsmithliu/discordfordummies/blob/gh-pages/assets/images/comm-user-doc-pic/voice-channel-customize-3.PNG?raw=true)

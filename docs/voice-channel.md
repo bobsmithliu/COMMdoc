@@ -22,6 +22,8 @@ Voice channel is another function in Discord, which allow users to communicate w
 
 ## Using a Voice Channel
 
+This section will show you step by step on how to use the basic features provided in the Discord voice channel.
+
 ### Join and use basic features of a voice channel
 
 1. Join the an existing voice channel by click on the channel name. You will see you user name in the channel, and a `Voice Connected` message will show on the bottom if you successfully join the channel.
