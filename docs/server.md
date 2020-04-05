@@ -5,7 +5,11 @@ nav_order: 2
 ---
 
 # Server
-Server is one of the functions in Discord. Server is needed for multi-user text chatting and voice chatting. Creating a server will enable you to use its Text Channel and Voice Channel features, which is also covered in the this document!
+Server is one of the functions in Discord. Server is needed for multi-user text chatting and voice chatting. Creating a server will enable you to use its Text Channel and Voice Channel features, which is also covered in the this document! The following instruction will teach you how to:
+
+- Create a server
+- Customize a server
+
 {: .no_toc }
 
 ## Table of contents
@@ -16,10 +20,7 @@ Server is one of the functions in Discord. Server is needed for multi-user text 
 {:toc}
 
 ---
-After reading this instruction, you should be able to:
 
----Create a server
----Customize a server
 
 ## Creating a server  
 
