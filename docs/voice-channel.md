@@ -16,10 +16,9 @@ Voice channel is another function in Discord, which allow users to communicate w
 
 ---
 
-## Table of contents
+### Table of contents
 {: .no_toc .text-delta }
-
-1. TOC
+* TOC
 {:toc}
 
 ---

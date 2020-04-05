@@ -16,10 +16,9 @@ Text channel is one of the functions in Discord, which allow users to chat with 
 
 ---
 
-## Table of contents
+### Table of contents
 {: .no_toc .text-delta }
-
-1. TOC
+* TOC
 {:toc}
 
 ---

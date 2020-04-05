@@ -15,10 +15,9 @@ Server is one of the functions in Discord. Server is needed for multi-user text 
 
 ---
 
-## Table of contents
+### Table of contents
 {: .no_toc .text-delta }
-
-1. TOC
+* TOC
 {:toc}
 
 ---
