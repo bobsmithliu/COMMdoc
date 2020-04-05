@@ -21,39 +21,57 @@ Server is one of the functions in Discord. Server is needed for multi-user text 
 
 ---
 
-
 ## Creating a server  
 
-1. Click the Plus sign at the very bottom of the left, if you cannot see it due to too many servers on the left side, scroll to the bottom and you will be able to see it.
+**1.** Click the **[Plus]** sign at the very bottom of the left, if you cannot see it due to too many servers on the left side, scroll to the bottom and you will be able to see it.
 
-      ![create](https://github.com/bobsmithliu/discordfordummies/blob/gh-pages/assets/images/comm-user-doc-pic/server-create-first-step.png?raw=true)
+![create](https://github.com/bobsmithliu/discordfordummies/blob/gh-pages/assets/images/comm-user-doc-pic/server-create-first-step.png?raw=true)
 
-2. Click Create Server in the poped dialogue box.
+<br  />
 
-      ![create confirm](https://github.com/bobsmithliu/discordfordummies/blob/gh-pages/assets/images/comm-user-doc-pic/server-create-second-step.png?raw=true)
+**2.** Click `Create Server` in the poped dialogue box.
 
-3. After that, you can change your server icons by clicking the thumbnal, or change the name by click the name entry box in the pre-setting dialogue box.
+![create confirm](https://github.com/bobsmithliu/discordfordummies/blob/gh-pages/assets/images/comm-user-doc-pic/server-create-second-step.png?raw=true)
 
-      ![basic setting](https://github.com/bobsmithliu/discordfordummies/blob/gh-pages/assets/images/comm-user-doc-pic/server-create-third-step.png?raw=true)
+<br  />
 
-4. Click Create.
+**3.** After that, you can change your server icons by clicking the thumbnail, or change the name by click the name entry box in the pre-setting dialogue box.
 
-5. Congratulation, you have created your own server!
+![basic setting](https://github.com/bobsmithliu/discordfordummies/blob/gh-pages/assets/images/comm-user-doc-pic/server-create-third-step.png?raw=true)
+
+<br  />
+
+**4.** Click `Create`.
+
+<br  />
+
+**5.** Congratulation, you have created your own server!
+
+<br  />
 
 ## Customizing a server
 
-1. Click the down arrow next to your server's name.
+**1.** Click the **[down-arrow]** next to your server's name.
 
-      ![server set](https://github.com/bobsmithliu/discordfordummies/blob/gh-pages/assets/images/comm-user-doc-pic/server-custom-first-step.png?raw=true)
+![server set](https://github.com/bobsmithliu/discordfordummies/blob/gh-pages/assets/images/comm-user-doc-pic/server-custom-first-step.png?raw=true)
 
-2. Click Server Settings.
+<br  />
 
-      ![dropdown menu](https://github.com/bobsmithliu/discordfordummies/blob/gh-pages/assets/images/comm-user-doc-pic/server-custom-second-step.png?raw=true)
+**2.** Click `Server Settings`.
 
-3. You can then change some properties of the server. e.g name, thumbnail, server region.
+![dropdown menu](https://github.com/bobsmithliu/discordfordummies/blob/gh-pages/assets/images/comm-user-doc-pic/server-custom-second-step.png?raw=true)
 
-      ![setting page](https://github.com/bobsmithliu/discordfordummies/blob/gh-pages/assets/images/comm-user-doc-pic/serversetting.png?raw=true)
+<br  />
 
-      ![basic change](https://github.com/bobsmithliu/discordfordummies/blob/gh-pages/assets/images/comm-user-doc-pic/serverpreivew.png?raw=true)
+**3.** You can then change some properties of the server. e.g name, thumbnail, server region.
 
-4. Once you are done with the setting, don't forget to save if you would like to keep the changes!
+![setting page](https://github.com/bobsmithliu/discordfordummies/blob/gh-pages/assets/images/comm-user-doc-pic/serversetting.png?raw=true)
+
+![basic change](https://github.com/bobsmithliu/discordfordummies/blob/gh-pages/assets/images/comm-user-doc-pic/serverpreivew.png?raw=true)
+
+<br  />
+
+**4.** ![caution](https://github.com/bobsmithliu/discordfordummies/blob/gh-pages/assets/images/comm-user-doc-pic/caution.png?raw=true){: style="float: left" } Once you are done with the setting, don't forget to save if you would like to keep the changes!
+
+![Save changes](https://github.com/bobsmithliu/discordfordummies/blob/gh-pages/assets/images/comm-user-doc-pic/voice-channel-customize-3.PNG?raw=true)
+
