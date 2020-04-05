@@ -66,19 +66,19 @@ _Note: Sometimes the message will not be sent successfully due to network connec
 
 1. To send a gif, first click the gif icon in the text box.
 
-    ![Gif select](https://github.com/bobsmithliu/discordfordummies/blob/gh-pages/assets/images/comm-user-doc-pic/text-channel-gif-icon.png)
+    ![Gif select](https://github.com/bobsmithliu/discordfordummies/blob/gh-pages/assets/images/comm-user-doc-pic/text-channel-gif-icon.png?raw=true)
 
 2. Once you have clicked it, the emoji selection interface will show up:
 
-    ![Gif interface](https://github.com/bobsmithliu/discordfordummies/blob/gh-pages/assets/images/comm-user-doc-pic/text-channel-gif.png)
+    ![Gif interface](https://github.com/bobsmithliu/discordfordummies/blob/gh-pages/assets/images/comm-user-doc-pic/text-channel-gif.png?raw=true)
 
 3. You can select gif base on category, or you can search a gif by typing the keyword in the search bar. e.g Nibu:
 
-    ![Nibu Gif](https://github.com/bobsmithliu/discordfordummies/blob/gh-pages/assets/images/comm-user-doc-pic/text-channel-gif-search.png)
+    ![Nibu Gif](https://github.com/bobsmithliu/discordfordummies/blob/gh-pages/assets/images/comm-user-doc-pic/text-channel-gif-search.png?raw=true)
 
 4. You can scroll up and down to find the one you would like to send, once you have picked one, click it and it will be sent for you:
 
-    ![Gif sent](https://github.com/bobsmithliu/discordfordummies/blob/gh-pages/assets/images/comm-user-doc-pic/text-channel-gif-sent.png)
+    ![Gif sent](https://github.com/bobsmithliu/discordfordummies/blob/gh-pages/assets/images/comm-user-doc-pic/text-channel-gif-sent.png?raw=true)
 
 #### Reaction
 
@@ -91,7 +91,7 @@ _Note: Sometimes the message will not be sent successfully due to network connec
 
 3. You can then choose from the reacion selection interface, like the emoji one, click it and your reaction will be added to the message!
 
-    ![Reaction Select](https://github.com/bobsmithliu/discordfordummies/blob/gh-pages/assets/images/comm-user-doc-pic/text-channel-add-reaction.png)
+    ![Reaction Select](https://github.com/bobsmithliu/discordfordummies/blob/gh-pages/assets/images/comm-user-doc-pic/text-channel-add-reaction.png?raw=true)
 
 4. Another way to add reaction is to right click on the message.
 
@@ -120,17 +120,17 @@ Once you have leared how to use a text channel, you can then start thinking abou
 
 1. Click the plus sign next the TEXT CHANNELS.
 
-    ![how to](https://github.com/bobsmithliu/discordfordummies/blob/gh-pages/assets/images/comm-user-doc-pic/text-channel-create-how-to.png)
+    ![how to](https://github.com/bobsmithliu/discordfordummies/blob/gh-pages/assets/images/comm-user-doc-pic/text-channel-create-how-to.png?raw=true)
 
 2. Enter the channel name to set a topic for this channel.
 
-    ![Set topic](https://github.com/bobsmithliu/discordfordummies/blob/gh-pages/assets/images/comm-user-doc-pic/text-channel-create-channel-setting.png)
+    ![Set topic](https://github.com/bobsmithliu/discordfordummies/blob/gh-pages/assets/images/comm-user-doc-pic/text-channel-create-channel-setting.png?raw=true)
 
 3. Click Create Channel.
 
 4. You will now see your newly created channel appear under #general !
     
-    ![Landing page](https://github.com/bobsmithliu/discordfordummies/blob/gh-pages/assets/images/comm-user-doc-pic/text-channel-create-channel-landing.png)
+    ![Landing page](https://github.com/bobsmithliu/discordfordummies/blob/gh-pages/assets/images/comm-user-doc-pic/text-channel-create-channel-landing.png?raw=true)
 
 ## Customize your text channel
 
@@ -140,7 +140,7 @@ Once you have leared how to use a text channel, you can then start thinking abou
 
 2. You can then change your Channel Name, Channel Topic, or Enabling Slow Mode.
 
-    ![text setting](https://github.com/bobsmithliu/discordfordummies/blob/gh-pages/assets/images/comm-user-doc-pic/text-channel-setting-landing-page.png)
+    ![text setting](https://github.com/bobsmithliu/discordfordummies/blob/gh-pages/assets/images/comm-user-doc-pic/text-channel-setting-landing-page.png?raw=true)
 
 3. Don't forget to save your changes before you leave if you would like to change the setting!
 
