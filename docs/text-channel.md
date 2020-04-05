@@ -105,7 +105,7 @@ _Note: Sometimes the message will not be sent successfully due to network connec
 
     text-channel-file-upload-button
 
-2. Select the file you would like to upload and Clikc OK.
+2. Select the file you would like to upload and Click OK.
 
 3. You can then choose to add a comment that will be send with the file, and mark the file as spoiler to prevent it being seen immediately.
 
@@ -118,16 +118,23 @@ _Note: Sometimes the message will not be sent successfully due to network connec
 
 Once you have leared how to use a text channel, you can then start thinking about how to create one for your other use! Afterall, nobody would like to chat in a room that has no set topic.
 
-### Setting up your channel
+1. Click the plus sign next the TEXT CHANNELS.
 
-#### General Setting
+2. Enter the channel name to set a topic for this channel.
 
-#### Permission Setting
+3. Click Create Channel
 
-#### Roles
+4. You will now see your newly created channel appear under #general !
 
 
-### Setting up
+## Customize your text channel
+
+1. Hover your mouse to your newly created channel's title, then click on the Gear button.
+
+2. You can then change your Channel Name, Channel Topic, or Enabling Slow Mode.
+
+3. Don't forget to save your changes before you leave if you would like to change the setting!
+
 {: .no_toc }
 
 ```yaml
