@@ -45,6 +45,8 @@ _Note: Sometimes the message will not be sent successfully due to network connec
 
 1. To send a emoji, first you need to click the emoji icon on the far right of text box.
 
+    ![find emoji button](https://github.com/bobsmithliu/discordfordummies/blob/gh-pages/assets/images/comm-user-doc-pic/text-channel-emoji-find.png?raw=true)
+
 2. Once you have clicked it, the emoji selection interface will show up:
 
     ![Open emoji select](https://github.com/bobsmithliu/discordfordummies/blob/gh-pages/assets/images/comm-user-doc-pic/text-channel-emoji.png?raw=true)
@@ -87,7 +89,7 @@ _Note: Sometimes the message will not be sent successfully due to network connec
 
 2. Click the icon with a smily face and a plus sign.
 
-    text-channel-find-reaction.png
+    ![find reaction](https://github.com/bobsmithliu/discordfordummies/blob/gh-pages/assets/images/comm-user-doc-pic/text-channel-find-reaction.png?raw=true)
 
 3. You can then choose from the reacion selection interface, like the emoji one, click it and your reaction will be added to the message!
 
