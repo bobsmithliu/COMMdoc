@@ -144,6 +144,6 @@ Once you have leared how to use a text channel, you can then start thinking abou
 
     ![text setting](https://github.com/bobsmithliu/discordfordummies/blob/gh-pages/assets/images/comm-user-doc-pic/text-channel-setting-landing-page.png?raw=true)
 
-3. Don't forget to save your changes before you leave if you would like to change the setting!
+3. ![caution](https://github.com/bobsmithliu/discordfordummies/blob/gh-pages/assets/images/comm-user-doc-pic/caution.png?raw=true){: style="float: left" }Don't forget to save your changes before you leave if you would like to change the setting!
 
     ![Connected status](https://github.com/bobsmithliu/discordfordummies/blob/gh-pages/assets/images/comm-user-doc-pic/voice-channel-customize-3.PNG?raw=true)

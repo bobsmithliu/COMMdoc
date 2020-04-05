@@ -36,12 +36,12 @@ This section will show you step by step on how to use the basic features provide
 
     ![Connected Status](https://github.com/bobsmithliu/discordfordummies/blob/gh-pages/assets/images/comm-user-doc-pic/voice-channel-use-2.PNG?raw=true)
     
-    _Note: You will also have the option to mute or deafen other users by using `Server Mute` or `Server Deafen` if you are the server owner or with propriate permissions from your role._
-    
+  ![Note](https://github.com/bobsmithliu/discordfordummies/blob/gh-pages/assets/images/comm-user-doc-pic/note.png?raw=true){: style="float: left" }You will also have the option to mute or deafen other users by using `Server Mute` or `Server Deafen` if you are the server owner or with propriate permissions from your role.
+
+![Note](https://github.com/bobsmithliu/discordfordummies/blob/gh-pages/assets/images/comm-user-doc-pic/note.png?raw=true){: style="float: left" }You can also mute or deafen yourself easily by click the headset and microphone icon on the bottom.
+
     ![Connected status](https://github.com/bobsmithliu/discordfordummies/blob/gh-pages/assets/images/comm-user-doc-pic/voice-channel-use-4.PNG?raw=true)  
     ![Connected status](https://github.com/bobsmithliu/discordfordummies/blob/gh-pages/assets/images/comm-user-doc-pic/voice-channel-use-5.PNG?raw=true)
-
-_Note: You can also mute or deafen yourself easily by click the headset and microphone icon on the bottom._
 
 3. When you decide to leave the current voice channel, click on the phone icon beside the `Voice Connect` to disconnect from the channel.
 
@@ -97,6 +97,6 @@ After you have learned the basics on how to use a voice cahnnel, you can create 
 
     ![Connected status](https://github.com/bobsmithliu/discordfordummies/blob/gh-pages/assets/images/comm-user-doc-pic/voice-channel-customize-1.PNG?raw=true)
 
-3. Make sure to click the `Save Changes` button at the bottom before leaving the windows.
+3. ![caution](https://github.com/bobsmithliu/discordfordummies/blob/gh-pages/assets/images/comm-user-doc-pic/caution.png?raw=true){: style="float: left" }Make sure to click the `Save Changes` button at the bottom before leaving the windows.
 
     ![Connected status](https://github.com/bobsmithliu/discordfordummies/blob/gh-pages/assets/images/comm-user-doc-pic/voice-channel-customize-3.PNG?raw=true)
