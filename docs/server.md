@@ -35,4 +35,10 @@ After reading this instruction, you should be able to:
 
 ## Customizing a server
 
-1. 
+1. Click the down arrow next to your server's name
+
+2. Click Server Settings
+
+3. You can then change some properties of the server. e.g name, thumbnail, server region
+
+4. Once you are done with the setting, don't forget to save if you would like to keep the changes!
