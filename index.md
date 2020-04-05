@@ -72,13 +72,13 @@ These instructions use the following typographic conventions.
 <br>
 
 [Note](https://github.com/bobsmithliu/discordfordummies/blob/gh-pages/assets/images/comm-user-doc-pic/note.png?raw=true){: style="float: left" }
-This is an indication that the following information is useful but not mandatory to read.
+>> This is an indication that the following information is useful but not mandatory to read.
 
 <br />
 <br />
 
 [caution](https://github.com/bobsmithliu/discordfordummies/blob/gh-pages/assets/images/comm-user-doc-pic/caution.png?raw=true){: style="float: left" }
-This is an indication that the following information should be paid extra attention to.
+>> This is an indication that the following information should be paid extra attention to.
 
 ---
 
