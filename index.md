@@ -51,7 +51,7 @@ To follow the instructions in this document, you will need:
 * internet connection,
 * a web browser of your choice installed,
 * a valid Discord account, and
-* basic skills to operate a Computer with Windows system.
+* basic skills to operate a Computer, i.e., typing with a keyboard, drag the mouse, and click buttons with mouse.
 
 ---
 
