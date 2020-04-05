@@ -6,8 +6,6 @@ nav_order: 3
 
 # Text Channel
 
----
-
 Text channel is one of the functions in Discord, which allow users to chat with each other in a public chatroom. Users are given serveral features, such as emoji, gif, and upload files to share their feeling and documents with each other. The following instruction will teach you how to:
 
 - Use a text channel
