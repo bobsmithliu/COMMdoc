@@ -19,7 +19,6 @@ Text channel is one of the functions in Discord, which allow users to chat with 
 1. TOC
 {:toc}
 
----
 
 ## Using a Text Channel
 
