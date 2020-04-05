@@ -30,6 +30,7 @@ This section will show you step by step on how to use the basic features provide
 ### Sending your first message
 
 **1.** To send your first message, first you need to go to the text box at the bottom of the screen, which looks like this:
+
 ![Starting a message](https://github.com/bobsmithliu/discordfordummies/blob/gh-pages/assets/images/comm-user-doc-pic/text-channel-start-message.PNG?raw=true)
 
 <br  />
