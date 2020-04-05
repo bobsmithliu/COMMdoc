@@ -20,9 +20,13 @@ Voice channel is another function in Discord, which allow users to communicate w
 - Create a voice channel, and
 - Customize a voice channel.
 
+<br />
+
 ## Using a Voice Channel
 
 This section will show you step by step on how to use the basic features provided in the Discord voice channel.
+
+<br />
 
 ### Join and use basic features of a voice channel
 
@@ -52,6 +56,8 @@ This section will show you step by step on how to use the basic features provide
 **3.** When you decide to leave the current voice channel, click on the phone icon beside the `Voice Connect` to disconnect from the channel.
 
 ![Connected status](https://github.com/bobsmithliu/discordfordummies/blob/gh-pages/assets/images/comm-user-doc-pic/voice-channel-use-10.PNG?raw=true)
+
+<br />
 
 ### Stream your game session in a voice channel
 
@@ -83,6 +89,8 @@ This section will show you step by step on how to use the basic features provide
 
 ![Connected status](https://github.com/bobsmithliu/discordfordummies/blob/gh-pages/assets/images/comm-user-doc-pic/voice-channel-use-10.PNG?raw=true)
 
+<br />
+
 ## Create a Voice Channel
 
 After you have learned the basics on how to use a voice cahnnel, you can create your own voice channel. This section will show you step by step on how to create a voice channel.
@@ -106,6 +114,8 @@ After you have learned the basics on how to use a voice cahnnel, you can create 
 **4.** The newly created channel will appear in the `VOICE CAHNNELS` section.
 
 ![Connected status](https://github.com/bobsmithliu/discordfordummies/blob/gh-pages/assets/images/comm-user-doc-pic/voice-channel-create-3.PNG?raw=true)
+
+<br />
 
 ## Customize your Voice channel
 
