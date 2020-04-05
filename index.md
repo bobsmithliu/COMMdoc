@@ -68,6 +68,7 @@ These instructions use the following typographic conventions.
 | Convention                           | Typeface      | Examples                                         |
 | :----                                | :----         | :----                                            |
 | Discord built-in buttons |   ```Light``` |     ```User Setting```, ```Voice Setting```, ```Voice Connected```     |
+| Specific Icons                  |   **[Bold]**  |     **[Gear]**, **[Headset]**, **[Microphone]**     |
 
 <br>
 

@@ -8,6 +8,10 @@ nav_order: 5
 
 **Deafening:** The ability to stop a user from hearing other Discord users in a voice channel.
 
+**Role:** A role indicates the permission a server owner gives to a certain user inside their server.
+
+**Emoji:** An emote created by users inside any servers.
+
 **Pinging:** A way to mention a user by starting their name with the @ sign. The pinged user will receive a notification and see the message highlighted.
 
 **Slow Mode:** Slow mode will set a delay time for all users when they try to send an message in a text server.
